@@ -1,16 +1,15 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=maxkerimkhanov&color=36b812)<br>
+![](https://img.shields.io/github/followers/maxkerimkhanov?style=social)<br>
+![](https://img.shields.io/github/stars/maxkerimkhanov?style=social)<br>
 
-<!--
-**maxkerimkhanov/maxkerimkhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, my name is Max 👋
 
-Here are some ideas to get you started:
+**Field of interests**: ML/DL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 🛠️
+- **Languages**:&nbsp;                         Python, SQL
+- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+
+### Projects 🐾
+- [Sentiment-Analysis-Web-App](https://github.com/maxkerimkhanov/Sentiment-Analysis-Web-App) - Sentiment Analysis Web Application for Russian and English Texts
