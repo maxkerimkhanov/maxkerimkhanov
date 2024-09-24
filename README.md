@@ -11,5 +11,5 @@
 - **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
-### Projects 🐾
+### Projects 🏄
 - [Sentiment-Analysis-Web-App](https://github.com/maxkerimkhanov/Sentiment-Analysis-Web-App) - Sentiment Analysis Web Application for Russian and English Texts
