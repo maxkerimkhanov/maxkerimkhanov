@@ -12,9 +12,9 @@
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
 
 ### Certifications 📜
-- [Training on marked-up data](https://stepik.org/cert/2271946?lang=en) @ Stepik
+- [Training on marked-up data](https://stepik.org/cert/2271946?lang=en)
 
-- [Searching for structure in data]( https://stepik.org/cert/2912936?lang=en) @ Stepik
+- [Searching for structure in data]( https://stepik.org/cert/2912936?lang=en)
 
 ### Projects 🏄
 - [Sentiment-Analysis-Web-App](https://github.com/maxkerimkhanov/Sentiment-Analysis-Web-App) - Sentiment Analysis Web Application for Russian and English Texts
