@@ -14,7 +14,9 @@
 ### Certifications 📜
 - [Training on marked-up data](https://stepik.org/cert/2271946?lang=en)
 
-- [Searching for structure in data]( https://stepik.org/cert/2912936?lang=en)
+- [Searching for structure in data](https://stepik.org/cert/2912936?lang=en)
+
+- [Drawing conclusions from the data](https://stepik.org/cert/3242862?lang=en)
 
 ### Projects 🏄
 - [Sentiment-Analysis-Web-App](https://github.com/maxkerimkhanov/Sentiment-Analysis-Web-App) - Sentiment Analysis Web Application for Russian and English Texts
